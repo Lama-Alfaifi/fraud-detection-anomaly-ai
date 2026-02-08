@@ -1,1 +1,1 @@
-# Frayd Detection Anomaly AI
+# Fraud Detection Anomaly AI
