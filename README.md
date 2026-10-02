@@ -103,5 +103,5 @@ print('Flagged as fraud:', pred.sum(), 'of', len(sample))
  
 Expected output on the demo sample: `Flagged as fraud: 401 of 5000`.
  
-> The model was trained with scikit-learn version `X.X.X`. Using a different version may show a warning.
+
  
